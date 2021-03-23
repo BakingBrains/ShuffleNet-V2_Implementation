@@ -8,4 +8,4 @@ Dataset: https://download.pytorch.org/tutorial/hymenoptera_data.zip</br>
 -->Run the service code on training.</br>
 -->Run the inference code for prediction (also includes service code).</br>
 -->Run the predict code for prediction on image and folder containing image.</br>
-Example weight file is given, so the directly the predict code can be tested.</br>
+Example weight file is given, so directly the predict code can be tested.</br>
