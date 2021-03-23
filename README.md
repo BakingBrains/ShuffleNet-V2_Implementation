@@ -2,6 +2,7 @@
 Implementation of ShuffleNet V2 architecture</br>
 Reference: https://pytorch.org/vision/stable/_modules/torchvision/models/shufflenetv2.html#shufflenet_v2_x0_5 </br>
 
+Dataset: https://download.pytorch.org/tutorial/hymenoptera_data.zip</br>
 -->create a classes.txt file containing the dataset classes.</br>
 -->Run the training code on the desired dataset.</br>
 -->Run the service code on training.</br>
